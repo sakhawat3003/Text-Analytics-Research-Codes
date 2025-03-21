@@ -1,2 +1,2 @@
-# Text-Analytics-Research-Codes
-R programming codes implemented in the research for efficient text analytics methodology
+# An Efficient Classification Model for Cyber Text
+-	This Paper introduces the Clement Term Frequency–Inverse Document Frequency (CTF-IDF) algorithm for data preprocessing and combines it with the faster IRLBA algorithm for dimensionality reduction. The study demonstrates that using these classical Machine Learning techniques in the text analytics pipeline offers a more efficient, less computationally intensive solution than deep learning methods, with minimal compromise in accuracy. 
